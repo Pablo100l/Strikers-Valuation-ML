@@ -44,7 +44,7 @@ Aby sprawdzić ważność cech: python "wagi zmiennych zawodników.py"
 
 Aby zobaczyć wykresy dopasowania (trening/test): uruchom odpowiednie skrypty wykresów.
 
-📊 Cechy brane pod uwagę przez model
+📊 Cechy brane pod uwagę przez model:
 Liczba meczów w sezonie
 
 Liczba goli
